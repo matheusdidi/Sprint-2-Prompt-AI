@@ -1,6 +1,5 @@
 # ==========================================
 # GOODWE EV ASSISTANT
-# Sem APIs e sem bibliotecas externas
 # ==========================================
 
 print("=" * 50)
